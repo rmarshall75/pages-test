@@ -1,3 +1,4 @@
 name: The Boss, Lost in code
 markdown: kramdown
 permalink: /pages-test/blog/:year/:month/:day/:title
+theme: just-the-docs
